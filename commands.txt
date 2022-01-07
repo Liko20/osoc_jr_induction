@@ -1,0 +1,11 @@
+$git config --global user.name "yourname"  // to give your username
+$git config --global user.email your email //to give your email
+$git init                                  //initialize repository
+$git add "filename"		           //to add to stage
+$touch "filename"		           //to create a file
+$git commit 				   //initial commit
+$git commit -m				   //to get previos commit
+$git checkout "filename"		   //to get previos commit
+$git checkout -f			   //to match all files to previos commit
+$git log   				   //to see all log
+$git diff				   //comapre with working directory to stage area
